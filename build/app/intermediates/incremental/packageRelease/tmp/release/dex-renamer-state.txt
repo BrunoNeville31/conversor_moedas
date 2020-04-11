@@ -1,0 +1,4 @@
+#Mon Apr 06 22:26:47 BRT 2020
+base.0=/home/bruno/Área de Trabalho/conversor_moeda/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,6 @@
+# Referenced at /home/bruno/Área de Trabalho/conversor_moeda/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:17
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/bruno/Área de Trabalho/conversor_moeda/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:22
+-keep class com.example.conversor_moeda.MainActivity { <init>(); }
+# Referenced at /home/bruno/Área de Trabalho/conversor_moeda/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:17
+-keep class io.flutter.app.FlutterApplication { <init>(); }
